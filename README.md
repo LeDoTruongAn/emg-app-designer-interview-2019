@@ -18,7 +18,7 @@ We developed the web interface of the application very similar to that of Moodle
 ## What we want to receive from your design:
 * Your design languages
 * Your app design trends
-* Your pace on design an application.
+* Your pace on designing an application.
 
 ## Caution
 I do know the above requirements that will require a massive works from you to complete. However, I really want to see how fast you can produce your works as we're playing product development game.
