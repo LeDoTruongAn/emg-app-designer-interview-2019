@@ -1,3 +1,4 @@
+# App Designer Interview 2019
 
 ## Requirements
 
@@ -19,6 +20,7 @@ We developed the web interface of the application very similar to that of Moodle
 * Your design languages
 * Your app design trends
 * Your pace on designing an application.
+* Your work-items and how long it take for each.
 
 ## Caution
 I do know the above requirements that will require a massive works from you to complete. However, I really want to see how fast you can produce your works as we're playing product development game.
